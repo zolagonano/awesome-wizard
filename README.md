@@ -28,7 +28,6 @@ Wizards to set up your self-hosted VPN.
 ### Wireguard
 
 - [WireGuard installer](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers 
-- [vpn-install](https://github.com/bedefaced/vpn-install) - Simple PPTP, L2TP/IPsec, OpenVPN installers
 
 ### PPTP
 
