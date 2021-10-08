@@ -14,11 +14,12 @@ What wizard scripts exactly are?
     - [Wireguard](#wireguard)
     - [PPTP](#pptp)
     - [L2TP](#l2tp)
-
+  - [Email](#email)
+    - [Mutt](#mutt)
 
 ## VPN
 
-Wizards to set up your self-hosted VPN.
+Wizards to set up your VPN client/server.
 
 ### Openvpn
 
@@ -36,6 +37,14 @@ Wizards to set up your self-hosted VPN.
 ### L2TP
 
 - [vpn-install](https://github.com/bedefaced/vpn-install) - Simple PPTP, L2TP/IPsec, OpenVPN installers
+
+## Email
+
+Wizards to set up your email client/server.
+
+### Mutt
+
+- [mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) - A system for automatically configuring mutt and isync with a simple interface and safe passwords.
 
 # License
 
