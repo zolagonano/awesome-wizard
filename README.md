@@ -14,6 +14,8 @@ What wizard scripts exactly are?
     - [Wireguard](#wireguard)
     - [PPTP](#pptp)
     - [L2TP](#l2tp)
+  - [Proxy](#proxy)
+    - [V2Ray](#v2ray)
   - [Email](#email)
     - [Mutt](#mutt)
 
@@ -37,6 +39,14 @@ Wizards to set up your VPN client/server.
 ### L2TP
 
 - [vpn-install](https://github.com/bedefaced/vpn-install) - Simple PPTP, L2TP/IPsec, OpenVPN installers
+
+## Proxy
+
+Wisard scripts to set up proxy servers.
+
+### V2Ray
+
+- [V2Ray Installer](https://github.com/HirbodBehnam/V2Ray-Installer) -A simple script to install v2fly/xray on servers 
 
 ## Email
 
